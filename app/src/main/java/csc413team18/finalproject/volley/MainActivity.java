@@ -1,7 +1,9 @@
-package csc413team18.finalproject;
+package csc413team18.finalproject.volley;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import csc413team18.finalproject.R;
 
 public class MainActivity extends AppCompatActivity {
 
