@@ -21,12 +21,10 @@ public class Meetup {
 
     //Handles list of Meetups as an arraylist for searching
     public static List<Meetup> parseJson(JSONObject jsonObject) throws JSONException{
-
         List<Meetup> meetups = new ArrayList<>();
 
         // Check if the JSONObject has object with key "Search"
         if(jsonObject.has("Search")){
-
             // Get JSONArray from JSONObject
             JSONArray jsonArray = jsonObject.getJSONArray("Search");
 
@@ -35,7 +33,6 @@ public class Meetup {
                 meetups.add(new Meetup(jsonArray.getJSONObject(i)));
             }
         }
-
         //returns list of meetups
         return meetups;
     }
