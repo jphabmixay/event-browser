@@ -29,11 +29,10 @@ public class Meetup {
             JSONArray jsonArray = jsonObject.getJSONArray("Search");
 
             for(int i = 0; i < jsonArray.length(); i++){
-                // Create new Meetup object from each JSONObject in the JSONArray
+                // Add new jsonObjects to our jsonArray
                 meetups.add(new Meetup(jsonArray.getJSONObject(i)));
             }
         }
-        //returns list of meetups
         return meetups;
     }
 
