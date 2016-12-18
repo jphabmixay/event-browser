@@ -3,21 +3,84 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_5f62259df1a9d33a80d4e7772c30685843d1e6cb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Y/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
         <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_fe7cfa4f4b0a928faf82180f7ce1f759004aa526/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_294eb27e4566e12e5a5fcec6a24711c7ab69bf31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_727eac73c5ea43804e7886ce7188c59be01684d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_0feba65a4c9fa7b01f0e5db630350754dbddc3b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_8399de2cc8f9e02685b7f8c9c1453f11d8fcec90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2e62a8dde3f7efc81c16aef20249242233df053b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_584b10cd5dfdc225311210ed4e72149dfb324bf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_a3a30370b7cb70bbec96a8f919d34da06edb7ea6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_5f62259df1a9d33a80d4e7772c30685843d1e6cb/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -36,15 +99,6 @@
         revision="25.0.0"
         sha1="f83b00041ecfba705603fec40363416c7de69719">
         <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_fbaf042b5934e338d20373729f3df5c2b4e31a7e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_294eb27e4566e12e5a5fcec6a24711c7ab69bf31/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,30 +129,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_727eac73c5ea43804e7886ce7188c59be01684d6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
         <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_c2abf882a8fd1e82c07bac87525e5926fc9963a3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
-        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_0feba65a4c9fa7b01f0e5db630350754dbddc3b8/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -111,29 +147,11 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_8399de2cc8f9e02685b7f8c9c1453f11d8fcec90/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2e62a8dde3f7efc81c16aef20249242233df053b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="7318ed440a9fb2c50b921377de895c75c532a981">
+        sha1="0e4c347a2204168a93a78ea23e7ac87301000153">
         <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_987593be2ae9dcd96354cb45c949da5660a2a26f/classes.dex" />
     </item>
     <item
@@ -144,24 +162,6 @@
         revision="25.0.0"
         sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
         <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_dc4a80c921dc21624d5c67093ed27ab580e47b93/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_584b10cd5dfdc225311210ed4e72149dfb324bf0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_a3a30370b7cb70bbec96a8f919d34da06edb7ea6/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -178,7 +178,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="fb28a100cedac3d9213f9a1d39adb62e429fe527">
+        sha1="e04c133c7502ec8c1c606275247e3302eafd4a78">
         <dex dex="/Users/Y/StudioProjects/Team18-EventBrowserFinale/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9bcdc773263ae0cdd573b2e52a91e0cf6197f37d/classes.dex" />
     </item>
     <item
